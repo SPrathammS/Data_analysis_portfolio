@@ -30,7 +30,7 @@
 # else:
 #     print(num)   
 
-# Activity 4
+# # Activity 4
 
 # print("What is the capitol of England?")
 # answer= input("Type your answer here >> ").capitalize()
@@ -42,15 +42,15 @@
 
 # Activity 5 
  
-word = input("Enter the word here>> ")
-# print (len(word))
-# first and last same
-if word[0] == word[-1]:
-    print ("True")
-else:
-    print ("False")
-# Activity 5 stretch for palindrome
-if word == word[::-1]:
-    print (f"{word} is a palindrome")
-else:
-    print (f"{word} is not a palindrome")
+# word = input("Enter the word here>> ")
+# # print (len(word))
+# # first and last same
+# if word[0] == word[-1]:
+#     print ("True")
+# else:
+#     print ("False")
+# # Activity 5 stretch for palindrome
+# if word == word[::-1]:
+#     print (f"{word} is a palindrome")
+# else:
+#     print (f"{word} is not a palindrome")
