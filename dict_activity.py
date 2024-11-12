@@ -9,3 +9,6 @@ websites = {
 print(websites)
 websites.update({"site 4" : "amazon.com", "site 5" : "linkedin.com"})
 print (websites)
+
+# Activity 2
+

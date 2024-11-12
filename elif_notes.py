@@ -23,16 +23,16 @@
 # returns first true statement, would not even read second true
 # could rearrange the order, as more specific if statement should be first in order.
 #-----------------------------------------
-age = int(input("Enter your age: "))
-place= input("Are you from UK? (Enter Y/N):").lower()
 
-if age >= 18 and place == "y":
-    print ("Yes I can serve you")
-elif age <18:
-    print("You are not old enough")
-else:
-    print("Sorry you are not in UK hence I cannot serve you.")
+# age = int(input("Enter your age: "))
+# place= input("Are you from UK? (Enter Y/N):").lower()
 
+# if age >= 18 and place == "y":
+#     print ("Yes I can serve you")
+# elif age <18:
+#     print("You are not old enough")
+# else:
+#     print("Sorry you are not in UK hence I cannot serve you.")
 
 # ---------------------------------------------
 # day = "Monday"
